@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"Characters"},{"l":"Characters.Style"},{"l":"Characters.Type"},{"l":"GemCreator"}];updateSearchResults();
